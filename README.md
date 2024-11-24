@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash S!</h1>
 <h3 align="center">🌟 **Data Science Enthusiast | Lifelong Learner | Problem Solver** </h3>
-<img align="right" alt="Coding" width="400" src="https://carlyberry.design/portrait-animated-gif">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/e3UjDk8bJhXGn4xB6">
 
 
 Welcome to my GitHub! I'm passionate about exploring the world of data, solving complex problems, and building impactful projects.  
