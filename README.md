@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash S!</h1>
-<h3 align="center">🌟 **Data Science Enthusiast | Lifelong Learner | Problem Solver** </h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/e3UjDk8bJhXGn4xB6">
-
+<h3 align="center">Data Science Enthusiast | Lifelong Learner | Problem Solver </h3>
+<br>
 
 Welcome to my GitHub! I'm passionate about exploring the world of data, solving complex problems, and building impactful projects.  
+
+
+<br>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🔧 Skills & Interests  
 - **Programming:** Python, SQL  
