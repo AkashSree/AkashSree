@@ -20,6 +20,8 @@ Welcome to my GitHub! I'm passionate about exploring the world of data, solving 
 🔹 **Automation with Python**: Various system automation scripts  
 
 ## 🤝 Let's Connect  
-Feel free to explore my repositories and connect with me to collaborate or discuss ideas. Together, we can make a difference with data!  
+Feel free to explore my repositories and connect with me to collaborate or discuss ideas. Together, we can make a difference with data! 
+
+- 📫 How to reach me **akashsree50@gmail.com**
 
 🌟 Happy Coding!  
